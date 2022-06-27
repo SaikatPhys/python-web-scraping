@@ -1,2 +1,2 @@
 # Python-Web-Scraping
-Web scraping and text processing using Beautiful Soup
+Web scraping using Beautiful Soup and text processing.
