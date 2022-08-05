@@ -1,6 +1,6 @@
 # Web scraping using Python
 
-Contents:
+**Contents:**
 
 1. [Scraping a website using Beautiful Soup](https://github.com/SaikatPhys/Python-Web-Scraping/blob/main/Web-scraping.ipynb)
 
